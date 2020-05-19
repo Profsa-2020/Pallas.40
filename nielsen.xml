@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nielsen>
+	<parametro>
+		<variavel_fat>10,50</variavel_fat> 
+		<variavel_mar>15,70</variavel_mar> 
+		<variavel_vol>18,53</variavel_vol> 
+		<margem_fat>7,50</margem_fat> 
+		<margem_mar>4,30</margem_mar> 
+		<margem_vol>9,50</margem_vol> 
+		<volume_fat>13,70</volume_fat> 
+		<volume_mar>27,91</volume_mar> 
+		<volume_vol>39,40</volume_vol> 		
+	</parametro>
+</nielsen>
